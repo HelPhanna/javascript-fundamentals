@@ -154,11 +154,13 @@ h1 {
 @media (max-width: 480px) {
   .card {
     padding: 1.5rem;
+    width: 90%;
   }
 
   h1 {
     font-size: 2rem;
   }
+
   .tempDisplay {
     font-size: 3rem;
   }
@@ -172,7 +174,7 @@ h1 {
 
   .cityInput,
   button[type="submit"] {
-    width: 100%;
+    width: 90%;
     margin: 5px 0;
   }
 }
