@@ -1,0 +1,21 @@
+[
+  {
+    "name": "Sarah Chen",
+    "age": 28,
+    "email": "sarah@example.com"
+  },
+  {
+    "name": "Alex Rivera",
+    "occupation": "Graphic Designer",
+    "experienceYears": 3
+  },
+  {
+    "name": "Taylor Smith",
+    "email": "taylor@example.com"
+  },
+  {
+    "name": "Jamal Khan",
+    "occupation": "Data Scientist",
+    "experienceYears": 7
+  }
+]
